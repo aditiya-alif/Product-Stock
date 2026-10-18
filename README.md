@@ -65,7 +65,7 @@ Make sure you have the following software installed:
     Open the terminal and run the following command:
 
     ```bash
-    git clone https://github.com/your_username/your_repository.git
+    git clone https://github.com/aditiya-alif/Product-Stock.git
     ```
 
 2.  **Move the Project Folder**  
